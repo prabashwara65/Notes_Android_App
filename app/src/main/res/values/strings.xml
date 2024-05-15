@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">newTODOLIst</string>
+
+    <string name="app_title">ToDo</string>
+    <string name="app_title_under">Manage Your Day</string>
+    <string name="image_description">TODO</string>
+    <string name="add_task">Add Task</string>
+    <string name="title_hint">Enter the title</string>
+    <string name="priority_hint">Enter priority</string>
+    <string name="deadLine_hint">Enter DeadLine</string>
+    <string name="content_hint">Enter Description</string>
+
+    <string name="title">Task Bar</string>
+    <string name="view_title">Title</string>
+</resources>

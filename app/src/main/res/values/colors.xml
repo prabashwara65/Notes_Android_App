@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#AC86DD</color>
+    <color name="blue">#2196F3</color>
+
+
+
+    <color name="highPriorityColor">#FF6347</color> <!-- Red -->
+    <color name="mediumPriorityColor">#FFA500</color> <!-- Orange -->
+    <color name="lowPriorityColor">#32CD32</color> <!-- Green -->
+
+
+</resources>
